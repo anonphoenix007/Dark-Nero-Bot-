@@ -53,7 +53,7 @@
                        "translatte": "^3.0.1",
                        "util": "^0.12.4",           
                        "secktor-pack": "latest",
-                       "youtubedl-core": "git+ssh://git@github.com:khlevon/node-ytdl-core.git#v4.11.4-patch.2",
+                       "youtubedl-core": "4.11.7",
                        "googlebard": "latest",
                        "@blackamda/song_video_dl": "latest",
                        "vihangayt-fbdl": "latest",
